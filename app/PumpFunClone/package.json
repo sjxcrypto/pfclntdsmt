@@ -1,0 +1,3 @@
+npx react-native init PumpFunClone
+cd PumpFunClone
+npm install @react-navigation/native @react-navigation/stack firebase react-native-elements react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-async-storage/async-storage
